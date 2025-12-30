@@ -6,4 +6,4 @@ The repository is structured for end‑to‑end experimentation and deployment:
 Experimentation folder for reproducible training and drift analysis.
 Deployment stack with Docker + Redis + Huggingface for scalable inference.
 You can test the app in :
-https://huggingface.co/spaces/lcsako10/Predicting-Brain-Tumor-using-MRI
+https://huggingface.co/spaces/lfcg10/app-predicting-brain-tumor
