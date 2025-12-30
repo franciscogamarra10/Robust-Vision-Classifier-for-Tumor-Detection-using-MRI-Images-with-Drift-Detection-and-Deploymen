@@ -1,0 +1,11 @@
+# Núcleo de computación e IA (Versiones de CPU para ahorro de espacio)
+#torch==2.9.0+cpu --index-url https://download.pytorch.org/whl/cpu
+#torchvision==0.24.0+cpu --index-url https://download.pytorch.org/whl/cpu
+#torch==2.0.1 
+#torchvision==0.15.2
+# Dependencias adicionales necesarias para tu modelo y servicio
+pillow==11.3.0
+numpy==2.0.2
+redis==4.1.4
+python-dotenv==1.2.1
+scipy
